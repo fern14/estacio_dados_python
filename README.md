@@ -10,29 +10,6 @@ Este projeto é uma iniciativa de extensão universitária desenvolvida em parce
 2. Treinar os funcionários da ONG e microempreendedores no uso e interpretação do dashboard.
 3. Identificar oportunidades de negócio para os microempreendedores participantes.
 
-## 📁 Estrutura do Projeto
-
-```
-projeto-analise-dados-pandas/
-│
-├── data/
-│   ├── dados_microempreendedores.csv
-│   └── estatisticas_por_setor.csv
-│
-├── scripts/
-│   ├── analise_dados.py
-│   └── dashboard.py
-│
-├── notebooks/
-│   └── exploracao_dados.ipynb
-│
-├── resultados/
-│   └── distribuicao_renda.png
-│
-├── requirements.txt
-├── README.md
-└── .gitignore
-```
 
 ## 🚀 Instalação
 
